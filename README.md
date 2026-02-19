@@ -10,6 +10,8 @@ It also includes a dedicated notebook for side-by-side metric comparison:
 - **Evaluation notebook** (`evaluation.ipynb`)
 
 ---
+## Dataset File Download Link
+- https://drive.google.com/drive/folders/1y_HEUAak-c0OXclmziYgj_Pvx43-9AW3?usp=drive_link
 
 ## Project Files
 
