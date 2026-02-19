@@ -16,20 +16,6 @@ It also includes a dedicated notebook for side-by-side metric comparison:
 - `bert.ipynb`: BERT-based POS tagging pipeline (PTB training/evaluation + CORD-19 analysis)
 - `HMM_Ver3.ipynb`: HMM-based POS tagging baseline and PTB metrics
 - `evaluation.ipynb`: Extracts saved notebook outputs and compares BERT vs HMM
-- `requirements.txt`: Python dependencies
-
----
-
-## Environment Setup
-
-1. Create and activate a virtual environment.
-2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. (Optional but recommended) Use a CUDA-enabled environment for faster inference in `bert.ipynb`.
 
 ---
 
